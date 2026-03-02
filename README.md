@@ -111,19 +111,7 @@ Perfect for beginners learning **systems programming**.
 
 ---
 
-## 📂 Project Structure
 
-```
-HexToBytes/
-│
-├── main.cpp
-├── README.md
-└── images/
-    ├── banner.png
-    └── demo.png
-```
-
----
 
 ## 👨‍💻 Author
 
@@ -145,5 +133,6 @@ If you like this project:
 ## 📜 License
 
 Open-source — free to use and modify.
+
 
 
